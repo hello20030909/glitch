@@ -1,5 +1,6 @@
 # glitch
 
+# 只有哪吒
 
 创建一个 node 项目
 
@@ -15,6 +16,8 @@
 把本项目的 server.js 内容替换到 glitch 的 server.js，或者把 glitch 的 server.js 删除掉，把本项目的 server.js 拖进去
 
 <img width="350" alt="image" src="https://github.com/hello20030909/glitch/assets/130833649/7a0c4054-1b95-45fd-9380-0da8f805b854">
+
+在 .env 中输入哪吒的三个参数
 
 保活就调用 glitch 的 link 后面加 /nezha
 
