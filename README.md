@@ -19,5 +19,8 @@
 
 在 .env 中输入哪吒的三个参数
 
+<img width="662" alt="image" src="https://github.com/hello20030909/glitch/assets/130833649/4018d6e8-9f87-43ed-9493-4c7cd42bdcf1">
+
+
 保活就调用 glitch 的 link 后面加 /nezha
 
